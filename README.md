@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Samuel</h1>
-<h3 align="center">I'm a Computer Engineering student and this is my personal profile where I share my projects. &#127470;&#127475</h3>
+<h3 align="center">I'm a Computer Engineering student and this is my personal profile where I share my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelBrambila12&label=Profile%20views&color=0e75b6&style=flat" alt="SamuelBrambila12" /> </p>
 
